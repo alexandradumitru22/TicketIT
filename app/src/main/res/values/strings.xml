@@ -1,6 +1,11 @@
 <resources>
     <string name="app_name">TicketIT</string>
-    <string name="login_password">Parola</string>
+    <string name="login_password">Password</string>
     <string name="login_login">Login</string>
     <string name="login_email">Email</string>
+    <string name="register_here">You don\'t have an account? Register here!</string>
+    <string name="register">Register</string>
+    <string name="first_name">First name</string>
+    <string name="last_name">Last name</string>
+    <string name="confirm_password">Confirm password</string>
 </resources>
